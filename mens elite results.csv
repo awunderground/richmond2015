@@ -1,193 +1,193 @@
-"","rank","rider","country","continent","normalized_results","result","result_in_minutes","speed_in_km","speed_in_miles"
-"1","1","Peter Sagan ","Slovakia","Europe",0,"6:14:37",374.62,41.8664246436389,26.0103571619241
-"2","2","Michael Matthews ","Australia","Oceania",3,"0:00:03",374.67,41.8608375370326,26.0068860597326
-"3","3","Ramunas Navardauskas ","Lithuania","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"4","4","Alexander Kristoff ","Norway","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"5","5","Alejandro Valverde Belmonte ","Spain","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"6","6","Simon Gerrans ","Australia","Oceania",3," ",374.67,41.8608375370326,26.0068860597326
-"7","7","Tony Gallopin ","France","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"8","8","Michal Kwiatkowski ","Poland","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"9","9","Rui Costa ","Portugal","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"10","10","Philippe Gilbert ","Belgium","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"11","11","Tom Dumoulin ","Netherlands","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"12","12","Alex Howes ","United States Of America","Americas",3," ",374.67,41.8608375370326,26.0068860597326
-"13","13","Niki Terpstra ","Netherlands","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"14","14","Rein Taaramae ","Estonia","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"15","15","Viacheslav Kuznetsov ","Russian Federation","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"16","16","Nelson Oliveira ","Portugal","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"17","17","Yukiya Arashiro ","Japan","Asia",3," ",374.67,41.8608375370326,26.0068860597326
-"18","18","Giacomo Nizzolo ","Italy","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"19","19","Brent Bookwalter ","United States Of America","Americas",3," ",374.67,41.8608375370326,26.0068860597326
-"20","20","Edvald Boasson Hagen ","Norway","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"21","21","Nacer Bouhanni ","France","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"22","22","Ben Swift ","Great Britain","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"23","23","Greg Van Avermaet ","Belgium","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"24","24","Tanel Kangert ","Estonia","Europe",3," ",374.67,41.8608375370326,26.0068860597326
-"25","25","Andrey Amador Bkkazakova ","Costa Rica","Americas",3," ",374.67,41.8608375370326,26.0068860597326
-"26","26","Marco Haller ","Austria","Europe",12,"0:00:12",374.82,41.8440851608772,25.9964783095886
-"27","27","Daniel Moreno Fernandez ","Spain","Europe",12," ",374.82,41.8440851608772,25.9964783095886
-"28","28","Silvan Dillier ","Switzerland","Europe",12," ",374.82,41.8440851608772,25.9964783095886
-"29","29","John Degenkolb ","Germany","Europe",15,"0:00:15",374.87,41.8385040147251,25.993010910449
-"30","30","Luis Leon Sanchez Gil ","Spain","Europe",15," ",374.87,41.8385040147251,25.993010910449
-"31","31","Stephen Cummings ","Great Britain","Europe",15," ",374.87,41.8385040147251,25.993010910449
-"32","32","Rigoberto Uran Uran ","Colombia","Americas",18,"0:00:18",374.92,41.8329243571962,25.9895444361464
-"33","33","Matti Breschel ","Denmark","Europe",21,"0:00:21",374.97,41.827346187695,25.9860788863109
-"34","34","Matteo Trentin ","Italy","Europe",21," ",374.97,41.827346187695,25.9860788863109
-"35","35","Tom Boonen ","Belgium","Europe",21," ",374.97,41.827346187695,25.9860788863109
-"36","36","Pavel Brutt ","Russian Federation","Europe",21," ",374.97,41.827346187695,25.9860788863109
-"37","37","Aleksei Tcatevich ","Russian Federation","Europe",28,"0:00:28",375.08,41.8150794497174,25.9784579289752
-"38","38","Arnaud Demare ","France","Europe",32,"0:00:32",375.15,41.8072770891643,25.9736105557777
-"39","39","Tomasz Marczynski ","Poland","Europe",40,"0:00:40",375.28,41.7927947132807,25.9646130888936
-"40","40","Sam Bennett ","Ireland","Europe",40," ",375.28,41.7927947132807,25.9646130888936
-"41","41","Karel Hnik ","Czech Republic","Europe",40," ",375.28,41.7927947132807,25.9646130888936
-"42","42","Vincenzo Nibali ","Italy","Europe",40," ",375.28,41.7927947132807,25.9646130888936
-"43","43","Zdenek Stybar ","Czech Republic","Europe",40," ",375.28,41.7927947132807,25.9646130888936
-"44","44","Heinrich Haussler ","Australia","Oceania",40," ",375.28,41.7927947132807,25.9646130888936
-"45","45","Lars Ytting Bak ","Denmark","Europe",55,"0:00:55",375.53,41.7649721726626,25.9473277767422
-"46","46","Andriy Grivko ","Ukraine","Europe",55," ",375.53,41.7649721726626,25.9473277767422
-"47","47","Luka Pibernik ","Slovenia","Europe",55," ",375.53,41.7649721726626,25.9473277767422
-"48","48","Luka Mezgec ","Slovenia","Europe",55," ",375.53,41.7649721726626,25.9473277767422
-"49","49","Mykhaylo Kononenko ","Ukraine","Europe",55," ",375.53,41.7649721726626,25.9473277767422
-"50","50","Daryl Impey ","South Africa","Africa",55," ",375.53,41.7649721726626,25.9473277767422
-"51","51","Ian Stannard ","Great Britain","Europe",55," ",375.53,41.7649721726626,25.9473277767422
-"52","52","Juan Jose Lobato Del Valle ","Spain","Europe",55," ",375.53,41.7649721726626,25.9473277767422
-"53","53","Benjamin King ","United States Of America","Americas",55," ",375.53,41.7649721726626,25.9473277767422
-"54","54","Michal Golas ","Poland","Europe",55," ",375.53,41.7649721726626,25.9473277767422
-"55","55","Sergey Lagutin ","Russian Federation","Europe",55," ",375.53,41.7649721726626,25.9473277767422
-"56","56","Jon Izaguirre Insausti ","Spain","Europe",55," ",375.53,41.7649721726626,25.9473277767422
-"57","57","Adam Yates ","Great Britain","Europe",55," ",375.53,41.7649721726626,25.9473277767422
-"58","58","Greg Henderson ","New Zealand","Oceania",55," ",375.53,41.7649721726626,25.9473277767422
-"59","59","Maciej Paterski ","Poland","Europe",70,"0:01:10",375.78,41.7371866517643,25.9300654638352
-"60","60","Kanstantsin Siutsou ","Belarus","Europe",98,"0:01:38",376.25,41.685049833887,25.8976744186047
-"61","61","Antoine Duchesne ","Canada","Americas",110,"0:01:50",376.45,41.6629034400319,25.8839155266304
-"62","62","Ilnur Zakarin ","Russian Federation","Europe",115,"0:01:55",376.53,41.6540514700024,25.8784160624651
-"63","63","Alexey Lutsenko ","Kazakhstan","Asia",122,"0:02:02",376.65,41.6407805655117,25.8701712465153
-"64","64","Sep Vanmarcke ","Belgium","Europe",128,"0:02:08",376.75,41.6297279362973,25.863304578633
-"65","65","Maximiliano Ariel Richeze ","Argentina","Americas",129,"0:02:09",376.77,41.6275181144996,25.8619316824588
-"66","66","Michael Albasini ","Switzerland","Europe",135,"0:02:15",376.87,41.6164725236819,25.8550693873219
-"67","67","Michael Valgren ","Denmark","Europe",170,"0:02:50",377.45,41.5525235130481,25.8153397801033
-"68","68","Carlos Julian Quintero ","Colombia","Americas",170," ",377.45,41.5525235130481,25.8153397801033
-"69","69","Bauke Mollema ","Netherlands","Europe",170," ",377.45,41.5525235130481,25.8153397801033
-"70","70","Arman Kamyshev ","Kazakhstan","Asia",170," ",377.45,41.5525235130481,25.8153397801033
-"71","71","Jens Keukeleire ","Belgium","Europe",170," ",377.45,41.5525235130481,25.8153397801033
-"72","72","Vegard Stake Laengen ","Norway","Europe",170," ",377.45,41.5525235130481,25.8153397801033
-"73","73","Adam Hansen ","Australia","Oceania",170," ",377.45,41.5525235130481,25.8153397801033
-"74","74","Rafal Majka ","Poland","Europe",170," ",377.45,41.5525235130481,25.8153397801033
-"75","75","Mickael Delage ","France","Europe",170," ",377.45,41.5525235130481,25.8153397801033
-"76","76","Gregory Rast ","Switzerland","Europe",170," ",377.45,41.5525235130481,25.8153397801033
-"77","77","Mathew Hayman ","Australia","Oceania",170," ",377.45,41.5525235130481,25.8153397801033
-"78","78","Michael Morkov ","Denmark","Europe",170," ",377.45,41.5525235130481,25.8153397801033
-"79","79","Tyler Farrar ","United States Of America","Americas",180,"0:03:00",377.62,41.5338170647741,25.8037180234098
-"80","80","Tiesj Benoot ","Belgium","Europe",215,"0:03:35",378.2,41.4701216287678,25.7641459545214
-"81","81","Lars Boom ","Netherlands","Europe",215," ",378.2,41.4701216287678,25.7641459545214
-"82","82","Manuel Quinziato ","Italy","Europe",221,"0:03:41",378.3,41.4591593973037,25.7573354480571
-"83","83","Daniele Bennati ","Italy","Europe",221," ",378.3,41.4591593973037,25.7573354480571
-"84","84","Fabio Felline ","Italy","Europe",221," ",378.3,41.4591593973037,25.7573354480571
-"85","85","Taylor Phinney ","United States Of America","Americas",221," ",378.3,41.4591593973037,25.7573354480571
-"86","86","Grega Bole ","Slovenia","Europe",225,"0:03:45",378.37,41.451489282977,25.7525702354838
-"87","87","Sebastian Langeveld ","Netherlands","Europe",225," ",378.37,41.451489282977,25.7525702354838
-"88","88","Tony Martin ","Germany","Europe",240,"0:04:00",378.62,41.424119169616,25.7355660028525
-"89","89","Elia Viviani ","Italy","Europe",318,"0:05:18",379.92,41.282375236892,25.6475047378395
-"90","90","Simon Geschke ","Germany","Europe",323,"0:05:23",380,41.2736842105263,25.6421052631579
-"91","91","Robert Gesink ","Netherlands","Europe",403,"0:06:43",381.33,41.1297301549839,25.5526709149556
-"92","92","Stijn Vandenbergh ","Belgium","Europe",403," ",381.33,41.1297301549839,25.5526709149556
-"93","93","Ryan Anderson ","Canada","Americas",403," ",381.33,41.1297301549839,25.5526709149556
-"94","94","Michael Woods ","Canada","Americas",403," ",381.33,41.1297301549839,25.5526709149556
-"95","95","Sergei Chernetski ","Russian Federation","Europe",403," ",381.33,41.1297301549839,25.5526709149556
-"96","96","Dylan van Baarle ","Netherlands","Europe",403," ",381.33,41.1297301549839,25.5526709149556
-"97","97","Jan Barta ","Czech Republic","Europe",403," ",381.33,41.1297301549839,25.5526709149556
-"98","98","Jiri Polnicky ","Czech Republic","Europe",403," ",381.33,41.1297301549839,25.5526709149556
-"99","99","Pim Ligthart ","Netherlands","Europe",403," ",381.33,41.1297301549839,25.5526709149556
-"100","100","Cyril Lemoine ","France","Europe",403," ",381.33,41.1297301549839,25.5526709149556
-"101","101","Scott Thwaites ","Great Britain","Europe",403," ",381.33,41.1297301549839,25.5526709149556
-"102","102","Diego Ulissi ","Italy","Europe",403," ",381.33,41.1297301549839,25.5526709149556
-"103","103","Paul Voss ","Germany","Europe",492,"0:08:12",382.82,40.9696463089703,25.4532156104697
-"104","104","Paul Martens ","Germany","Europe",647,"0:10:47",385.4,40.6953814218993,25.2828230409964
-"105","105","Andre Greipel ","Germany","Europe",647," ",385.4,40.6953814218993,25.2828230409964
-"106","106","Marcel Sieberg ","Germany","Europe",647," ",385.4,40.6953814218993,25.2828230409964
-"107","107","Guillaume Boivin ","Canada","Americas",671,"0:11:11",385.8,40.6531881804043,25.2566096423017
-"108","108","Radoslav Rogina ","Croatia","Europe",671," ",385.8,40.6531881804043,25.2566096423017
-"109","109","Lawson Craddock ","United States Of America","Americas",776,"0:12:56",387.55,40.4696168236357,25.1425622500323
-"110","110","Gatis Smukulis ","Latvia","Europe",838,"0:13:58",388.58,40.3623449482732,25.0759174429976
-"111","DNF","Joaquin Rodriguez Oliver ","Spain","Europe",NA," ",NA,NA,NA
-"112","DNF","Florian Vachon ","France","Europe",NA," ",NA,NA,NA
-"113","DNF","Simon Clarke ","Australia","Oceania",NA," ",NA,NA,NA
-"114","DNF","Mitch Docker ","Australia","Oceania",NA," ",NA,NA,NA
-"115","DNF","Kristijan Durasek ","Croatia","Europe",NA," ",NA,NA,NA
-"116","DNF","Georg Preidler ","Austria","Europe",NA," ",NA,NA,NA
-"117","DNF","Christian Knees ","Germany","Europe",NA," ",NA,NA,NA
-"118","DNF","Reinardt Janse Van Rensburg ","South Africa","Africa",NA," ",NA,NA,NA
-"119","DNF","Jay McCarthy ","Australia","Oceania",NA," ",NA,NA,NA
-"120","DNF","Luke Durbridge ","Australia","Oceania",NA," ",NA,NA,NA
-"121","DNF","Roman Kreuziger ","Czech Republic","Europe",NA," ",NA,NA,NA
-"122","DNF","Luke Rowe ","Great Britain","Europe",NA," ",NA,NA,NA
-"123","DNF","Christopher Juul Jensen ","Denmark","Europe",NA," ",NA,NA,NA
-"124","DNF","Rasmus Guldhammer ","Denmark","Europe",NA," ",NA,NA,NA
-"125","DNF","Nikolas Maes ","Belgium","Europe",NA," ",NA,NA,NA
-"126","DNF","Imanol Erviti Ollo ","Spain","Europe",NA," ",NA,NA,NA
-"127","DNF","Ruben Plaza Molina ","Spain","Europe",NA," ",NA,NA,NA
-"128","DNF","Denys Kostyuk ","Ukraine","Europe",NA," ",NA,NA,NA
-"129","DNF","Lars Petter Nordhaug ","Norway","Europe",NA," ",NA,NA,NA
-"130","DNF","Kohei Uchima ","Japan","Asia",NA," ",NA,NA,NA
-"131","DNF","Ruslan Tleubayev ","Kazakhstan","Asia",NA," ",NA,NA,NA
-"132","DNF","Sebastien Minard ","France","Europe",NA," ",NA,NA,NA
-"133","DNF","Juraj Sagan ","Slovakia","Europe",NA," ",NA,NA,NA
-"134","DNF","Michal Kolar ","Slovakia","Europe",NA," ",NA,NA,NA
-"135","DNF","Kristijan Koren ","Slovenia","Europe",NA," ",NA,NA,NA
-"136","DNF","Luis Mas Bonet ","Spain","Europe",NA," ",NA,NA,NA
-"137","DNF","Borut Bozic ","Slovenia","Europe",NA," ",NA,NA,NA
-"138","DNF","Vasil Kiryienka ","Belarus","Europe",NA," ",NA,NA,NA
-"139","DNF","Juan Carlos Rojas ","Costa Rica","Americas",NA," ",NA,NA,NA
-"140","DNF","Ryan Roth ","Canada","Americas",NA," ",NA,NA,NA
-"141","DNF","Jarlinson Pantano ","Colombia","Americas",NA," ",NA,NA,NA
-"142","DNF","Johannes Frohlinger ","Germany","Europe",NA," ",NA,NA,NA
-"143","DNF","Gediminas Bagdonas ","Lithuania","Europe",NA," ",NA,NA,NA
-"144","DNF","Petr Vakoc ","Czech Republic","Europe",NA," ",NA,NA,NA
-"145","DNF","Sven Erik Bystrom ","Norway","Europe",NA," ",NA,NA,NA
-"146","DNF","Iljo Keisse ","Belgium","Europe",NA," ",NA,NA,NA
-"147","DNF","Jose Goncalves ","Portugal","Europe",NA," ",NA,NA,NA
-"148","DNF","Winner Anacona Gomez ","Colombia","Americas",NA," ",NA,NA,NA
-"149","DNF","Alex Cano Ardila ","Colombia","Americas",NA," ",NA,NA,NA
-"150","DNF","Mekseb Debesay ","Eritrea","Africa",NA," ",NA,NA,NA
-"151","DNF","Manuel Rodas Ochoa ","Guatemala","Americas",NA," ",NA,NA,NA
-"152","DNF","Julien Simon ","France","Europe",NA," ",NA,NA,NA
-"153","DNF","Vitaliy Buts ","Ukraine","Europe",NA," ",NA,NA,NA
-"154","DNF","Andrew Fenn ","Great Britain","Europe",NA," ",NA,NA,NA
-"155","DNF","Lukas Postlberger ","Austria","Europe",NA," ",NA,NA,NA
-"156","DNF","Julian Alaphilippe ","France","Europe",NA," ",NA,NA,NA
-"157","DNF","Maciej Bodnar ","Poland","Europe",NA," ",NA,NA,NA
-"158","DNF","Oleksandr Polivoda ","Ukraine","Europe",NA," ",NA,NA,NA
-"159","DNF","Polychronis Tzortzakis ","Greece","Europe",NA," ",NA,NA,NA
-"160","DNF","Edwin Alcibiades Avila Vanegas ","Colombia","Americas",NA," ",NA,NA,NA
-"161","DNF","Conor Dunne ","Ireland","Europe",NA," ",NA,NA,NA
-"162","DNF","Evaldas Siskevicius ","Lithuania","Europe",NA," ",NA,NA,NA
-"163","DNF","Bayron Guama De La Cruz ","Ecuador","Americas",NA," ",NA,NA,NA
-"164","DNF","Kleber Ramos ","Brazil","Americas",NA," ",NA,NA,NA
-"165","DNF","Fumiyuki Beppu ","Japan","Asia",NA," ",NA,NA,NA
-"166","DNF","Miguel Angel Lopez Moreno ","Colombia","Americas",NA," ",NA,NA,NA
-"167","DNF","Hugo Houle ","Canada","Americas",NA," ",NA,NA,NA
-"168","DNF","Alex Dowsett ","Great Britain","Europe",NA," ",NA,NA,NA
-"169","DNF","Jesse Sergent ","New Zealand","Oceania",NA," ",NA,NA,NA
-"170","DNF","Carlos Eduardo Alzate Escobar ","Colombia","Americas",NA," ",NA,NA,NA
-"171","DNF","Tomas Buchacek ","Czech Republic","Europe",NA," ",NA,NA,NA
-"172","DNF","Serghei Tvetcov ","Romania","Europe",NA," ",NA,NA,NA
-"173","DNF","Sam Bewley ","New Zealand","Oceania",NA," ",NA,NA,NA
-"174","DNF","Laurent Didier ","Luxembourg","Europe",NA," ",NA,NA,NA
-"175","DNF","Daniel Alexander Jaramillo Diez ","Colombia","Americas",NA," ",NA,NA,NA
-"176","DNF","Marko Kump ","Slovenia","Europe",NA," ",NA,NA,NA
-"177","DNF","Vegard Breen ","Norway","Europe",NA," ",NA,NA,NA
-"178","DNF","Yauheni Hutarovich ","Belarus","Europe",NA," ",NA,NA,NA
-"179","DNF","Jos Van Emden ","Netherlands","Europe",NA," ",NA,NA,NA
-"180","DNF","Jean-Pierre Drucker ","Luxembourg","Europe",NA," ",NA,NA,NA
-"181","DNF","Ivan Stevic ","Serbia","Europe",NA," ",NA,NA,NA
-"182","DNF","Daniel Oss ","Italy","Europe",NA," ",NA,NA,NA
-"183","DNF","Andriy Khripta ","Ukraine","Europe",NA," ",NA,NA,NA
-"184","DNF","Nikolay Mihaylov ","Bulgaria","Europe",NA," ",NA,NA,NA
-"185","DNF","Sung Baek Park ","Korea","Asia",NA," ",NA,NA,NA
-"186","DNF","Gonzalo Garrido ","Chile","Americas",NA," ",NA,NA,NA
-"187","DNF","Alex Kirsch ","Luxembourg","Europe",NA," ",NA,NA,NA
-"188","DNF","Daniel Diaz ","Argentina","Americas",NA," ",NA,NA,NA
-"189","DNF","Joon Yong Seo ","Korea","Asia",NA," ",NA,NA,NA
-"190","DNF","Antonio Garnero ","Brazil","Americas",NA," ",NA,NA,NA
-"191","DNF","Cesar Rojas Villegas ","Costa Rica","Americas",NA," ",NA,NA,NA
-"192","DNS","Jaco Venter ","South Africa","Africa",NA," ",NA,NA,NA
+"","rank","rider","country","continent","normalized_results","results","result_in_minutes","speed_in_km","speed_in_miles"
+"1","1","Peter Sagan ","Slovakia","Europe",0,"0:00:00",374.62,41.866,26.01
+"2","2","Michael Matthews ","Australia","Oceania",3,"0:00:03",374.67,41.861,26.007
+"3","3","Ramunas Navardauskas ","Lithuania","Europe",3,"0:00:03",374.67,41.861,26.007
+"4","4","Alexander Kristoff ","Norway","Europe",3,"0:00:03",374.67,41.861,26.007
+"5","5","Alejandro Valverde Belmonte ","Spain","Europe",3,"0:00:03",374.67,41.861,26.007
+"6","6","Simon Gerrans ","Australia","Oceania",3,"0:00:03",374.67,41.861,26.007
+"7","7","Tony Gallopin ","France","Europe",3,"0:00:03",374.67,41.861,26.007
+"8","8","Michal Kwiatkowski ","Poland","Europe",3,"0:00:03",374.67,41.861,26.007
+"9","9","Rui Costa ","Portugal","Europe",3,"0:00:03",374.67,41.861,26.007
+"10","10","Philippe Gilbert ","Belgium","Europe",3,"0:00:03",374.67,41.861,26.007
+"11","11","Tom Dumoulin ","Netherlands","Europe",3,"0:00:03",374.67,41.861,26.007
+"12","12","Alex Howes ","United States Of America","Americas",3,"0:00:03",374.67,41.861,26.007
+"13","13","Niki Terpstra ","Netherlands","Europe",3,"0:00:03",374.67,41.861,26.007
+"14","14","Rein Taaramae ","Estonia","Europe",3,"0:00:03",374.67,41.861,26.007
+"15","15","Viacheslav Kuznetsov ","Russian Federation","Europe",3,"0:00:03",374.67,41.861,26.007
+"16","16","Nelson Oliveira ","Portugal","Europe",3,"0:00:03",374.67,41.861,26.007
+"17","17","Yukiya Arashiro ","Japan","Asia",3,"0:00:03",374.67,41.861,26.007
+"18","18","Giacomo Nizzolo ","Italy","Europe",3,"0:00:03",374.67,41.861,26.007
+"19","19","Brent Bookwalter ","United States Of America","Americas",3,"0:00:03",374.67,41.861,26.007
+"20","20","Edvald Boasson Hagen ","Norway","Europe",3,"0:00:03",374.67,41.861,26.007
+"21","21","Nacer Bouhanni ","France","Europe",3,"0:00:03",374.67,41.861,26.007
+"22","22","Ben Swift ","Great Britain","Europe",3,"0:00:03",374.67,41.861,26.007
+"23","23","Greg Van Avermaet ","Belgium","Europe",3,"0:00:03",374.67,41.861,26.007
+"24","24","Tanel Kangert ","Estonia","Europe",3,"0:00:03",374.67,41.861,26.007
+"25","25","Andrey Amador Bkkazakova ","Costa Rica","Americas",3,"0:00:03",374.67,41.861,26.007
+"26","26","Marco Haller ","Austria","Europe",12,"0:00:12",374.82,41.844,25.996
+"27","27","Daniel Moreno Fernandez ","Spain","Europe",12,"0:00:12",374.82,41.844,25.996
+"28","28","Silvan Dillier ","Switzerland","Europe",12,"0:00:12",374.82,41.844,25.996
+"29","29","John Degenkolb ","Germany","Europe",15,"0:00:15",374.87,41.839,25.993
+"30","30","Luis Leon Sanchez Gil ","Spain","Europe",15,"0:00:15",374.87,41.839,25.993
+"31","31","Stephen Cummings ","Great Britain","Europe",15,"0:00:15",374.87,41.839,25.993
+"32","32","Rigoberto Uran Uran ","Colombia","Americas",18,"0:00:18",374.92,41.833,25.99
+"33","33","Matti Breschel ","Denmark","Europe",21,"0:00:21",374.97,41.827,25.986
+"34","34","Matteo Trentin ","Italy","Europe",21,"0:00:21",374.97,41.827,25.986
+"35","35","Tom Boonen ","Belgium","Europe",21,"0:00:21",374.97,41.827,25.986
+"36","36","Pavel Brutt ","Russian Federation","Europe",21,"0:00:21",374.97,41.827,25.986
+"37","37","Aleksei Tcatevich ","Russian Federation","Europe",28,"0:00:28",375.08,41.815,25.978
+"38","38","Arnaud Demare ","France","Europe",32,"0:00:32",375.15,41.807,25.974
+"39","39","Tomasz Marczynski ","Poland","Europe",40,"0:00:40",375.28,41.793,25.965
+"40","40","Sam Bennett ","Ireland","Europe",40,"0:00:40",375.28,41.793,25.965
+"41","41","Karel Hnik ","Czech Republic","Europe",40,"0:00:40",375.28,41.793,25.965
+"42","42","Vincenzo Nibali ","Italy","Europe",40,"0:00:40",375.28,41.793,25.965
+"43","43","Zdenek Stybar ","Czech Republic","Europe",40,"0:00:40",375.28,41.793,25.965
+"44","44","Heinrich Haussler ","Australia","Oceania",40,"0:00:40",375.28,41.793,25.965
+"45","45","Lars Ytting Bak ","Denmark","Europe",55,"0:00:55",375.53,41.765,25.947
+"46","46","Andriy Grivko ","Ukraine","Europe",55,"0:00:55",375.53,41.765,25.947
+"47","47","Luka Pibernik ","Slovenia","Europe",55,"0:00:55",375.53,41.765,25.947
+"48","48","Luka Mezgec ","Slovenia","Europe",55,"0:00:55",375.53,41.765,25.947
+"49","49","Mykhaylo Kononenko ","Ukraine","Europe",55,"0:00:55",375.53,41.765,25.947
+"50","50","Daryl Impey ","South Africa","Africa",55,"0:00:55",375.53,41.765,25.947
+"51","51","Ian Stannard ","Great Britain","Europe",55,"0:00:55",375.53,41.765,25.947
+"52","52","Juan Jose Lobato Del Valle ","Spain","Europe",55,"0:00:55",375.53,41.765,25.947
+"53","53","Benjamin King ","United States Of America","Americas",55,"0:00:55",375.53,41.765,25.947
+"54","54","Michal Golas ","Poland","Europe",55,"0:00:55",375.53,41.765,25.947
+"55","55","Sergey Lagutin ","Russian Federation","Europe",55,"0:00:55",375.53,41.765,25.947
+"56","56","Jon Izaguirre Insausti ","Spain","Europe",55,"0:00:55",375.53,41.765,25.947
+"57","57","Adam Yates ","Great Britain","Europe",55,"0:00:55",375.53,41.765,25.947
+"58","58","Greg Henderson ","New Zealand","Oceania",55,"0:00:55",375.53,41.765,25.947
+"59","59","Maciej Paterski ","Poland","Europe",70,"0:01:10",375.78,41.737,25.93
+"60","60","Kanstantsin Siutsou ","Belarus","Europe",98,"0:01:38",376.25,41.685,25.898
+"61","61","Antoine Duchesne ","Canada","Americas",110,"0:01:50",376.45,41.663,25.884
+"62","62","Ilnur Zakarin ","Russian Federation","Europe",115,"0:01:55",376.53,41.654,25.878
+"63","63","Alexey Lutsenko ","Kazakhstan","Asia",122,"0:02:02",376.65,41.641,25.87
+"64","64","Sep Vanmarcke ","Belgium","Europe",128,"0:02:08",376.75,41.63,25.863
+"65","65","Maximiliano Ariel Richeze ","Argentina","Americas",129,"0:02:09",376.77,41.628,25.862
+"66","66","Michael Albasini ","Switzerland","Europe",135,"0:02:15",376.87,41.616,25.855
+"67","67","Michael Valgren ","Denmark","Europe",170,"0:02:50",377.45,41.553,25.815
+"68","68","Carlos Julian Quintero ","Colombia","Americas",170,"0:02:50",377.45,41.553,25.815
+"69","69","Bauke Mollema ","Netherlands","Europe",170,"0:02:50",377.45,41.553,25.815
+"70","70","Arman Kamyshev ","Kazakhstan","Asia",170,"0:02:50",377.45,41.553,25.815
+"71","71","Jens Keukeleire ","Belgium","Europe",170,"0:02:50",377.45,41.553,25.815
+"72","72","Vegard Stake Laengen ","Norway","Europe",170,"0:02:50",377.45,41.553,25.815
+"73","73","Adam Hansen ","Australia","Oceania",170,"0:02:50",377.45,41.553,25.815
+"74","74","Rafal Majka ","Poland","Europe",170,"0:02:50",377.45,41.553,25.815
+"75","75","Mickael Delage ","France","Europe",170,"0:02:50",377.45,41.553,25.815
+"76","76","Gregory Rast ","Switzerland","Europe",170,"0:02:50",377.45,41.553,25.815
+"77","77","Mathew Hayman ","Australia","Oceania",170,"0:02:50",377.45,41.553,25.815
+"78","78","Michael Morkov ","Denmark","Europe",170,"0:02:50",377.45,41.553,25.815
+"79","79","Tyler Farrar ","United States Of America","Americas",180,"0:03:00",377.62,41.534,25.804
+"80","80","Tiesj Benoot ","Belgium","Europe",215,"0:03:35",378.2,41.47,25.764
+"81","81","Lars Boom ","Netherlands","Europe",215,"0:03:35",378.2,41.47,25.764
+"82","82","Manuel Quinziato ","Italy","Europe",221,"0:03:41",378.3,41.459,25.757
+"83","83","Daniele Bennati ","Italy","Europe",221,"0:03:41",378.3,41.459,25.757
+"84","84","Fabio Felline ","Italy","Europe",221,"0:03:41",378.3,41.459,25.757
+"85","85","Taylor Phinney ","United States Of America","Americas",221,"0:03:41",378.3,41.459,25.757
+"86","86","Grega Bole ","Slovenia","Europe",225,"0:03:45",378.37,41.451,25.753
+"87","87","Sebastian Langeveld ","Netherlands","Europe",225,"0:03:45",378.37,41.451,25.753
+"88","88","Tony Martin ","Germany","Europe",240,"0:04:00",378.62,41.424,25.736
+"89","89","Elia Viviani ","Italy","Europe",318,"0:05:18",379.92,41.282,25.648
+"90","90","Simon Geschke ","Germany","Europe",323,"0:05:23",380,41.274,25.642
+"91","91","Robert Gesink ","Netherlands","Europe",403,"0:06:43",381.33,41.13,25.553
+"92","92","Stijn Vandenbergh ","Belgium","Europe",403,"0:06:43",381.33,41.13,25.553
+"93","93","Ryan Anderson ","Canada","Americas",403,"0:06:43",381.33,41.13,25.553
+"94","94","Michael Woods ","Canada","Americas",403,"0:06:43",381.33,41.13,25.553
+"95","95","Sergei Chernetski ","Russian Federation","Europe",403,"0:06:43",381.33,41.13,25.553
+"96","96","Dylan van Baarle ","Netherlands","Europe",403,"0:06:43",381.33,41.13,25.553
+"97","97","Jan Barta ","Czech Republic","Europe",403,"0:06:43",381.33,41.13,25.553
+"98","98","Jiri Polnicky ","Czech Republic","Europe",403,"0:06:43",381.33,41.13,25.553
+"99","99","Pim Ligthart ","Netherlands","Europe",403,"0:06:43",381.33,41.13,25.553
+"100","100","Cyril Lemoine ","France","Europe",403,"0:06:43",381.33,41.13,25.553
+"101","101","Scott Thwaites ","Great Britain","Europe",403,"0:06:43",381.33,41.13,25.553
+"102","102","Diego Ulissi ","Italy","Europe",403,"0:06:43",381.33,41.13,25.553
+"103","103","Paul Voss ","Germany","Europe",492,"0:08:12",382.82,40.97,25.453
+"104","104","Paul Martens ","Germany","Europe",647,"0:10:47",385.4,40.695,25.283
+"105","105","Andre Greipel ","Germany","Europe",647,"0:10:47",385.4,40.695,25.283
+"106","106","Marcel Sieberg ","Germany","Europe",647,"0:10:47",385.4,40.695,25.283
+"107","107","Guillaume Boivin ","Canada","Americas",671,"0:11:11",385.8,40.653,25.257
+"108","108","Radoslav Rogina ","Croatia","Europe",671,"0:11:11",385.8,40.653,25.257
+"109","109","Lawson Craddock ","United States Of America","Americas",776,"0:12:56",387.55,40.47,25.143
+"110","110","Gatis Smukulis ","Latvia","Europe",838,"0:13:58",388.58,40.362,25.076
+"111","DNF","Joaquin Rodriguez Oliver ","Spain","Europe",NA,"DNF",NA,NA,NA
+"112","DNF","Florian Vachon ","France","Europe",NA,"DNF",NA,NA,NA
+"113","DNF","Simon Clarke ","Australia","Oceania",NA,"DNF",NA,NA,NA
+"114","DNF","Mitch Docker ","Australia","Oceania",NA,"DNF",NA,NA,NA
+"115","DNF","Kristijan Durasek ","Croatia","Europe",NA,"DNF",NA,NA,NA
+"116","DNF","Georg Preidler ","Austria","Europe",NA,"DNF",NA,NA,NA
+"117","DNF","Christian Knees ","Germany","Europe",NA,"DNF",NA,NA,NA
+"118","DNF","Reinardt Janse Van Rensburg ","South Africa","Africa",NA,"DNF",NA,NA,NA
+"119","DNF","Jay McCarthy ","Australia","Oceania",NA,"DNF",NA,NA,NA
+"120","DNF","Luke Durbridge ","Australia","Oceania",NA,"DNF",NA,NA,NA
+"121","DNF","Roman Kreuziger ","Czech Republic","Europe",NA,"DNF",NA,NA,NA
+"122","DNF","Luke Rowe ","Great Britain","Europe",NA,"DNF",NA,NA,NA
+"123","DNF","Christopher Juul Jensen ","Denmark","Europe",NA,"DNF",NA,NA,NA
+"124","DNF","Rasmus Guldhammer ","Denmark","Europe",NA,"DNF",NA,NA,NA
+"125","DNF","Nikolas Maes ","Belgium","Europe",NA,"DNF",NA,NA,NA
+"126","DNF","Imanol Erviti Ollo ","Spain","Europe",NA,"DNF",NA,NA,NA
+"127","DNF","Ruben Plaza Molina ","Spain","Europe",NA,"DNF",NA,NA,NA
+"128","DNF","Denys Kostyuk ","Ukraine","Europe",NA,"DNF",NA,NA,NA
+"129","DNF","Lars Petter Nordhaug ","Norway","Europe",NA,"DNF",NA,NA,NA
+"130","DNF","Kohei Uchima ","Japan","Asia",NA,"DNF",NA,NA,NA
+"131","DNF","Ruslan Tleubayev ","Kazakhstan","Asia",NA,"DNF",NA,NA,NA
+"132","DNF","Sebastien Minard ","France","Europe",NA,"DNF",NA,NA,NA
+"133","DNF","Juraj Sagan ","Slovakia","Europe",NA,"DNF",NA,NA,NA
+"134","DNF","Michal Kolar ","Slovakia","Europe",NA,"DNF",NA,NA,NA
+"135","DNF","Kristijan Koren ","Slovenia","Europe",NA,"DNF",NA,NA,NA
+"136","DNF","Luis Mas Bonet ","Spain","Europe",NA,"DNF",NA,NA,NA
+"137","DNF","Borut Bozic ","Slovenia","Europe",NA,"DNF",NA,NA,NA
+"138","DNF","Vasil Kiryienka ","Belarus","Europe",NA,"DNF",NA,NA,NA
+"139","DNF","Juan Carlos Rojas ","Costa Rica","Americas",NA,"DNF",NA,NA,NA
+"140","DNF","Ryan Roth ","Canada","Americas",NA,"DNF",NA,NA,NA
+"141","DNF","Jarlinson Pantano ","Colombia","Americas",NA,"DNF",NA,NA,NA
+"142","DNF","Johannes Frohlinger ","Germany","Europe",NA,"DNF",NA,NA,NA
+"143","DNF","Gediminas Bagdonas ","Lithuania","Europe",NA,"DNF",NA,NA,NA
+"144","DNF","Petr Vakoc ","Czech Republic","Europe",NA,"DNF",NA,NA,NA
+"145","DNF","Sven Erik Bystrom ","Norway","Europe",NA,"DNF",NA,NA,NA
+"146","DNF","Iljo Keisse ","Belgium","Europe",NA,"DNF",NA,NA,NA
+"147","DNF","Jose Goncalves ","Portugal","Europe",NA,"DNF",NA,NA,NA
+"148","DNF","Winner Anacona Gomez ","Colombia","Americas",NA,"DNF",NA,NA,NA
+"149","DNF","Alex Cano Ardila ","Colombia","Americas",NA,"DNF",NA,NA,NA
+"150","DNF","Mekseb Debesay ","Eritrea","Africa",NA,"DNF",NA,NA,NA
+"151","DNF","Manuel Rodas Ochoa ","Guatemala","Americas",NA,"DNF",NA,NA,NA
+"152","DNF","Julien Simon ","France","Europe",NA,"DNF",NA,NA,NA
+"153","DNF","Vitaliy Buts ","Ukraine","Europe",NA,"DNF",NA,NA,NA
+"154","DNF","Andrew Fenn ","Great Britain","Europe",NA,"DNF",NA,NA,NA
+"155","DNF","Lukas Postlberger ","Austria","Europe",NA,"DNF",NA,NA,NA
+"156","DNF","Julian Alaphilippe ","France","Europe",NA,"DNF",NA,NA,NA
+"157","DNF","Maciej Bodnar ","Poland","Europe",NA,"DNF",NA,NA,NA
+"158","DNF","Oleksandr Polivoda ","Ukraine","Europe",NA,"DNF",NA,NA,NA
+"159","DNF","Polychronis Tzortzakis ","Greece","Europe",NA,"DNF",NA,NA,NA
+"160","DNF","Edwin Alcibiades Avila Vanegas ","Colombia","Americas",NA,"DNF",NA,NA,NA
+"161","DNF","Conor Dunne ","Ireland","Europe",NA,"DNF",NA,NA,NA
+"162","DNF","Evaldas Siskevicius ","Lithuania","Europe",NA,"DNF",NA,NA,NA
+"163","DNF","Bayron Guama De La Cruz ","Ecuador","Americas",NA,"DNF",NA,NA,NA
+"164","DNF","Kleber Ramos ","Brazil","Americas",NA,"DNF",NA,NA,NA
+"165","DNF","Fumiyuki Beppu ","Japan","Asia",NA,"DNF",NA,NA,NA
+"166","DNF","Miguel Angel Lopez Moreno ","Colombia","Americas",NA,"DNF",NA,NA,NA
+"167","DNF","Hugo Houle ","Canada","Americas",NA,"DNF",NA,NA,NA
+"168","DNF","Alex Dowsett ","Great Britain","Europe",NA,"DNF",NA,NA,NA
+"169","DNF","Jesse Sergent ","New Zealand","Oceania",NA,"DNF",NA,NA,NA
+"170","DNF","Carlos Eduardo Alzate Escobar ","Colombia","Americas",NA,"DNF",NA,NA,NA
+"171","DNF","Tomas Buchacek ","Czech Republic","Europe",NA,"DNF",NA,NA,NA
+"172","DNF","Serghei Tvetcov ","Romania","Europe",NA,"DNF",NA,NA,NA
+"173","DNF","Sam Bewley ","New Zealand","Oceania",NA,"DNF",NA,NA,NA
+"174","DNF","Laurent Didier ","Luxembourg","Europe",NA,"DNF",NA,NA,NA
+"175","DNF","Daniel Alexander Jaramillo Diez ","Colombia","Americas",NA,"DNF",NA,NA,NA
+"176","DNF","Marko Kump ","Slovenia","Europe",NA,"DNF",NA,NA,NA
+"177","DNF","Vegard Breen ","Norway","Europe",NA,"DNF",NA,NA,NA
+"178","DNF","Yauheni Hutarovich ","Belarus","Europe",NA,"DNF",NA,NA,NA
+"179","DNF","Jos Van Emden ","Netherlands","Europe",NA,"DNF",NA,NA,NA
+"180","DNF","Jean-Pierre Drucker ","Luxembourg","Europe",NA,"DNF",NA,NA,NA
+"181","DNF","Ivan Stevic ","Serbia","Europe",NA,"DNF",NA,NA,NA
+"182","DNF","Daniel Oss ","Italy","Europe",NA,"DNF",NA,NA,NA
+"183","DNF","Andriy Khripta ","Ukraine","Europe",NA,"DNF",NA,NA,NA
+"184","DNF","Nikolay Mihaylov ","Bulgaria","Europe",NA,"DNF",NA,NA,NA
+"185","DNF","Sung Baek Park ","Korea","Asia",NA,"DNF",NA,NA,NA
+"186","DNF","Gonzalo Garrido ","Chile","Americas",NA,"DNF",NA,NA,NA
+"187","DNF","Alex Kirsch ","Luxembourg","Europe",NA,"DNF",NA,NA,NA
+"188","DNF","Daniel Diaz ","Argentina","Americas",NA,"DNF",NA,NA,NA
+"189","DNF","Joon Yong Seo ","Korea","Asia",NA,"DNF",NA,NA,NA
+"190","DNF","Antonio Garnero ","Brazil","Americas",NA,"DNF",NA,NA,NA
+"191","DNF","Cesar Rojas Villegas ","Costa Rica","Americas",NA,"DNF",NA,NA,NA
+"192","DNS","Jaco Venter ","South Africa","Africa",NA,"DNS",NA,NA,NA

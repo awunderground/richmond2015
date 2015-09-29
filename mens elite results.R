@@ -90,7 +90,7 @@ temp$continent <- countrycode(temp$country, "country.name", "continent")
 
 # create data frame 
 
-uci_results <- data.frame(rank, temp, normalized_results, result)
+uci_results <- data.frame(rank, temp, normalized_results, results)
 
 # create absolute finishing times
 
@@ -100,9 +100,9 @@ uci_results <- mutate(uci_results, result_in_minutes = round((normalized_results
 
 # average speed 
 
-uci_results <- mutate(uci_results, speed_in_km = (261.4/result_in_minutes)*60)
-uci_results <- mutate(uci_results, speed_in_miles = (162.4/result_in_minutes)*60)
+uci_results <- mutate(uci_results, speed_in_km = round((261.4/result_in_minutes)*60, digits = 3))
+uci_results <- mutate(uci_results, speed_in_miles = round((162.4/result_in_minutes)*60, digits = 3))
 
 # write csv
 
-write.csv(uci_results, file = "/Users/aaronwilliams/Data/richmond2015/mens elite results")
+write.csv(uci_results, file = "/Users/aaronwilliams/Data/richmond2015/mens elite results.csv")
