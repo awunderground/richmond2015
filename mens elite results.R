@@ -4,7 +4,6 @@ library(rvest)
 library(stringr)
 library(dplyr)
 library(plyr)
-library(dplyr)
 library(countrycode)
 
 uci_link <- html("http://www.cyclingnews.com/uci-road-world-championships/elite-men-road-race/results/")
@@ -21,7 +20,7 @@ rider <- uci_link %>%
     html_nodes(".count+ td") %>%
     html_text()
 
-# normalize the results
+# create normalized finishing times
 
 time1 <- "0:00:00"
 time2 <- rep(result[2], 24)
@@ -58,10 +57,11 @@ time32 <- result[110]
 time33 <- rep("DNF", 81)
 time34 <- "DNS"
 
-nums <- 1:34
-nums <- paste("time", nums, sep = "")
-
 results <- c(time1, time2, time3, time4, time5, time6, time7, time8, time9, time10, time11, time12, 
+  time13, time14, time15, time16, time17, time18, time19, time20, time21, time22, time23, 
+  time24, time25, time26, time27, time28, time29, time30, time31, time32, time33, time34)
+
+rm(time1, time2, time3, time4, time5, time6, time7, time8, time9, time10, time11, time12, 
   time13, time14, time15, time16, time17, time18, time19, time20, time21, time22, time23, 
   time24, time25, time26, time27, time28, time29, time30, time31, time32, time33, time34)
 
@@ -74,11 +74,7 @@ minutes <- times[, 2]
 minutes <- as.numeric(minutes)
 minutes <- minutes*60
 
-normalized_results2 <- minutes + seconds
-
-normalized_results[1:110] <- normalized_results2[1:110]
-
-rm(normalized_results2)
+normalized_results <- minutes + seconds
 
 #create country variable
 
@@ -92,25 +88,21 @@ temp$country <- gsub("\\)", "", temp$country)
 
 temp$continent <- countrycode(temp$country, "country.name", "continent")
 
-#
-
-total_times <- results[2:110]
-total_times <- str_split_fixed(total_times, ":", 3)
-
-total_times[, 1] <- "06"
-
-total_times[, 2] <- as.numeric(total_times[, 2]) + 14
-
-total_times[, 3] <- as.numeric(total_times[, 3]) + 37
-
-
-if(total_times[, 3] > 60){as.numeric(total_times[, 3] - 60}
-
-total_times[, 2] total_times[, total_times[, 3] >60]
-
-
+# create data frame 
 
 uci_results <- data.frame(rank, temp, normalized_results, result)
 
+# create absolute finishing times
 
+winner_in_seconds <- 6*3600 + 14*60 + 37
 
+uci_results <- mutate(uci_results, result_in_minutes = round((normalized_results + winner_in_seconds)/60, digits = 2))
+
+# average speed 
+
+uci_results <- mutate(uci_results, speed_in_km = (261.4/result_in_minutes)*60)
+uci_results <- mutate(uci_results, speed_in_miles = (162.4/result_in_minutes)*60)
+
+# write csv
+
+write.csv(uci_results, file = "/Users/aaronwilliams/Data/richmond2015/mens elite results")
